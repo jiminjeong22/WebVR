@@ -1,2 +1,3 @@
 # WebVR
-code for making Web VR
+- WebVR교육 플랫폼 설계 및 실험 담당
+- 2018 공학교육학술대회 [공학교육 도구로서 가상현실(VirtualReality)사용의 적절성] 논문 채택 및 발표
